@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Selenium-practice Suite" duration-ms="45337" started-at="2021-05-29T19:45:42 IST" finished-at="2021-05-29T19:46:28 IST">
+    <groups>
+    </groups>
+    <test name="TC_BrowserCommands" duration-ms="45337" started-at="2021-05-29T19:45:42 IST" finished-at="2021-05-29T19:46:28 IST">
+      <class name="com.Selenium_practice_TestCases.TC_BrowserCommands_01">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:com.Selenium_practice_TestCases.TC_BrowserCommands_01@305fd85d]" name="Setup" is-config="true" duration-ms="16370" started-at="2021-05-29T19:45:42 IST" finished-at="2021-05-29T19:45:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="BrowserCommands()[pri:0, instance:com.Selenium_practice_TestCases.TC_BrowserCommands_01@305fd85d]" name="BrowserCommands" duration-ms="27083" started-at="2021-05-29T19:45:59 IST" finished-at="2021-05-29T19:46:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserCommands -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Selenium_practice_TestCases.TC_BrowserCommands_01@305fd85d]" name="teardown" is-config="true" duration-ms="1477" started-at="2021-05-29T19:46:26 IST" finished-at="2021-05-29T19:46:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Selenium_practice_TestCases.TC_BrowserCommands_01 -->
+    </test> <!-- TC_BrowserCommands -->
+  </suite> <!-- Selenium-practice Suite -->
+</testng-results>
